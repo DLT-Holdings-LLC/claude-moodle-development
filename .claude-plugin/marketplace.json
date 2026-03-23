@@ -9,7 +9,7 @@
     {
       "name": "moodle-development",
       "description": "Moodle plugin development expertise, API patterns, and operational best practices for Moodle Workplace 5.1 / Moodle 4.5+",
-      "source": "..",
+      "source": ".",
       "category": "development",
       "homepage": "https://github.com/DLT-Holdings-LLC/claude-moodle-development"
     }
