@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "moodle-development",
+  "description": "Moodle plugin development expertise for Moodle Workplace 5.1 / Moodle 4.5+",
+  "owner": {
+    "name": "DLT Holdings LLC"
+  },
+  "plugins": [
+    {
+      "name": "moodle-development",
+      "description": "Moodle plugin development expertise, API patterns, and operational best practices for Moodle Workplace 5.1 / Moodle 4.5+",
+      "source": ".",
+      "category": "development",
+      "homepage": "https://github.com/DLT-Holdings-LLC/claude-moodle-development"
+    }
+  ]
+}
