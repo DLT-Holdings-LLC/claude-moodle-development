@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:moodledev.io)",
-      "Bash(wc -l /Users/darrel/Projects/claude-plugins/moodle-development/skills/*/SKILL.md)"
+      "Bash(wc -l /Users/darrel/Projects/claude-plugins/moodle-development/skills/*/SKILL.md)",
+      "Bash(git clone:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
